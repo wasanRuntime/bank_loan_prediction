@@ -55,11 +55,11 @@ Evaluate the performance of the trained models.
 
 ## Dependencies:
 
-Python 3.x
-Jupyter Notebook
-Pandas
-NumPy
-Scikit-learn
+- Python 3.x
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Scikit-learn
 
 ## Conclusion:
 This project aims to provide a predictive model that can assist the bank in making informed decisions regarding loan approvals. By leveraging machine learning techniques, the bank can streamline its loan approval process and improve efficiency.
